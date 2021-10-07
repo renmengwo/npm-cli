@@ -1,6 +1,6 @@
 const templates = {
     'UWP': {
-        url: 'github:renmengwo/test-cli#main',
+        url: 'github:renmengwo/bl-tempToUwp-front#main',
         description: '接入UWP的系统请使用该模板',
     },
     'SUWP': {

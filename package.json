@@ -1,5 +1,5 @@
 {
-  "name": "bl-cli",
+  "name": "bft-li",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
+  "repository": "https://github.com/yorcent/string-is-null-empty-undefined.git",
   "bin": {
     "bl-cli": "babel-node --presets env ./bin/www"
   },

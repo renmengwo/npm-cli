@@ -9,7 +9,7 @@
   "keywords": [],
   "repository": "https://github.com/renmengwo/npm-cli.git",
   "bin": {
-    "bl-cli": "babel-node --presets env ./bin/www"
+    "bl-cli": "./bin/www"
   },
   "author": "",
   "license": "ISC",
